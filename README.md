@@ -9,7 +9,7 @@ I hope to get a better understanding of how to use data visualizations in a prof
 
 ### Portfolio
 Coming soon.. 
-![https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif]
+![image](https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif)
 
 ```markdown
 Syntax highlighted code block

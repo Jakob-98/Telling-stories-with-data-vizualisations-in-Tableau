@@ -1,4 +1,4 @@
-# cmustudent-portfolio 
+# Jakob Serlier - portfolio 
 This is my public portfolio for the Telling Stores with Data class at CMU!
 
 ### About me

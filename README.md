@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
+# cmustudent-portfolio 
+This is my public portfolio for the Telling Stores with Data class at CMU!
 
-You can use the [editor on GitHub](https://github.com/Jakob-98/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
+My name is Jakob Serlier, I'm an exchange student from Delft University of Technology, and I'm currently a Systems Engineering, Policy & Management student in the IT track. I also follow an honorary degree in IT related subjects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What I hope to learn and do
+I hope to get a better understanding of how to use data visualizations in a professional environment, and I hope to improve my ability to convey idea's using these vizualizations. Communication is key in every aspect of your professional life, and hopefully this course will help me improve my communication skills in this area. Lastly, I hope to be able to show off my portfolio on my personal website, https:jakobs.dev, which I haven't really had the chance to update yet. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Portfolio
+Coming soon.. 
+![https://media.giphy.com/media/3o72FkiKGMGauydfyg/giphy.gif]
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +28,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jakob-98/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

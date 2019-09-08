@@ -6,6 +6,9 @@
 datafile from: https://data.oecd.org/gga/general-government-debt.htm
 <iframe src="https://data.oecd.org/chart/5Fwe" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Fwe" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
+### Improved barchart comparing 1995 debt to 2015 debt: 
+I did not like the original barchart by OECD, so I decided to improve upon it. I manually edited the dataset to use the values of countries who's debt was on record in both 1995 and 2015, and used Datawrapper to visualize this. 
+<iframe title="General government debt Total " aria-label="Bullet Bars" id="datawrapper-chart-JRKlv" src="//datawrapper.dwcdn.net/JRKlv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="773"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 ### Beeswarm plot using the General government debt Total, % of GDP, 2015 dataset.
 

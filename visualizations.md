@@ -1,4 +1,4 @@
-[back](../)
+[Back](../visualizations)
 ### Random visualizations
 <br>
 Alluvial Diagram visualizing statistics about the RMS titanic disaster, showing gender, class, the boats and survival. 

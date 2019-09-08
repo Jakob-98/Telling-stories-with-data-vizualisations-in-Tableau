@@ -11,11 +11,14 @@ Lastly I hope to have a bit of fun. Usually I'm the type to avoid 'creative' sub
 
 
 # Portfolio
+DISCLAIMER:
 ![image](https://media.giphy.com/media/bit0nI9sZFGExZD8dn/giphy.gif)
+<small>This means the website is still a work in progress.</small>
+
+### OECD data visualization
+
 
 ### Other visualizations: 
-<a href="/visualizations" target="_blank">visualizations</a>
-
 [visualizations](visualizations.md)
 
 #### Introduction

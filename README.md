@@ -11,9 +11,9 @@ Lastly I hope to have a bit of fun. Usually I'm the type to avoid 'creative' sub
 
 
 # Portfolio
-DISCLAIMER:
+DISCLAIMER: <br>
 ![image](https://media.giphy.com/media/bit0nI9sZFGExZD8dn/giphy.gif)
-<small>This means the website is still a work in progress.</small>
+
 
 ### OECD data visualization
 

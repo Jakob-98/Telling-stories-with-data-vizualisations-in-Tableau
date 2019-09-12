@@ -1,6 +1,11 @@
 [Back](https://portfolio.jakobs.dev)
 
 ### The Organization for Economic Co-operation and Development (OECD) datasets visualizations
+Summary: <br>
+This page contains different visualization of the same dataset; https://data.oecd.org/gga/general-government-debt.htm. <br>
+The dataset shows the general government debt in % of GDP of various countries during a period of around 20 years. The first bar chart shown is a chart made avaiable by the Economic co-operation and Development organization. Further visualizations are of my own work, these include an (improved) bar chart, a beeswarm plot, a boxplot, an areagraph and lastly, a heatmap. The beeswarm plot and areagraph are quite similar, they use nearly the same method to display data, and are very similar in axes and setup, apart from the fact that the beeswarm plot uses distinct 'bubbles' per year, whereas the area plot uses a gradual transition. The last visualization is wonderful for gaining much insight about the data when one has the chance to take their time to look at the data, but also instinctively see the trend in the data by just glancing at it for a moment. I was interested in showing the change of debt to %GDP, so I chose to use a boxplot to do that, which gives an interesting view on the datarange of the various countries' debts. Enjoy looking around!<br>
+
+-Jakob
 
 ### Embedding the General government debt Total, % of GDP, 2015 graph:
 source data from: https://data.oecd.org/gga/general-government-debt.htm

@@ -87,4 +87,26 @@ frame = pd.concat(li, axis=0, ignore_index=True)
 frame.to_csv('outtotal.csv')
 ```
 
+```
+# Thanks to (source): https://stackoverflow.com/questions/20906474/import-multiple-csv-files-into-pandas-and-concatenate-into-one-dataframe
+# importing pandas module  
+import pandas as pd 
+   
+# reading csv file from url  
+data = pd.read_csv("C:/Users/jakob/jupyter/webscrape/new.csv") 
+  
+# dropping null value columns to avoid errors 
+data.dropna(inplace = True) 
+  
+new = data["Recent annual revenue"].str.split(n = 1, expand = True) 
+  
+data["Revenue"]= new[0] 
+  
+data["Year"]= new[1] 
+  
+# Dropping old Name columns 
+data.drop(columns =["Recent annual revenue"], inplace = True)
+data.to_csv('new2.csv')
+```
+
 [Back](https://portfolio.jakobs.dev)

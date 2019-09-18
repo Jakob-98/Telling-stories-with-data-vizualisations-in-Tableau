@@ -16,7 +16,7 @@ My main point of critique on was that the chart wanted to show too much, but sai
 The article did not seem to show a source for the data, so I improvised. In order to recreate this chart I used [this](https://countryeconomy.com/key-rates) website to scrape the relevant data for the key central bank rates. The data scraped corresponded correctly. After some fiddling around in excel I was able to create a datasheet which was parseable by Tableau. The next step was to make a draft of my visualization. 
 
 ## Wireframe a solution & external critique 
-I chose not to draw the wireframe since I wanted to be able to get accurate feedback, and I felt that sketching the visualization might influence the view of the respondent. The wireframe I created 
+I chose not to draw the wireframe since I wanted to be able to get accurate feedback, and I felt that sketching the visualization might influence the view of the respondent. The wireframe I created was made in tableau with the gathered data. 
 ![image](wireframe.png)
 [data source](https://countryeconomy.com/key-rates)
 
@@ -30,17 +30,14 @@ The lines are clear but I think making the values more distinct would help (I be
 *Respondent 2:* I don't really see clear changes in Australia or the UK, is that intended? What is a "key" rate? tip: don't show both the legend and the names (I overlooked this). *After looking at the original article:* if youre trying to show changes in rate, it might be unclear because the russia bar is quite high. 
 
 
-
-
-
-
-In the first visualization I was keen to show that the data, in fact, does not seem to show such a sharp downwards trend as the 
-
-
 ## Final visualization
-I'm happy with the result. One can see the recent changes and trends in central bank rates with just a quick glance, there is little cluttler to (..). There are a few things I'm not 100% happy with yet, however. I wasn't able to find a way to **bold** the America line and title (something which I will ask next lecture). Another thing I'm unsure about is the date; I wanted to keep the X axis fairly free from data clutter, but maybe I shouldve added a little more detailed date indicators. Overall the result is much better fitting for the story which the original article wanted to convey. Still, I felt like NYT fitted the data to what they wanted people to see, instead what the data might actually represent..
+The main change I made was decreasing the range of the date-axis. This way, the range of the y-axis could be decreased as well, and the recent trends are more visible. In order to fit the story of the article, I added indicators to show the recent downwards trend (again, which I still find a bit misleading). The changes in rates is also made more visible by the indicators. This is conform the feedback of the first respondent. I updated the chart title, subtitle and axes names in accordance to my feedback. Some other minor font and layout changes were made to declutter and improve the ease of understanding the data. Final result: 
+
 ![image](rates.png)
 [data source](https://countryeconomy.com/key-rates)
+
+I'm happy with the result. One can see the recent changes and trends in central bank rates with just a quick glance. There are a few things I'm not 100% happy with yet. I wasn't able to find a way to **bold** the America line and title (something which I will ask next lecture). Another thing I'm unsure about is the date; I wanted to keep the X axis fairly free from data clutter, but maybe I shouldve added a little more detailed date indicators. Overall the result is much better fitting for the story which the original article wanted to convey. Still, I felt like NYT fitted the data to what they wanted people to see, instead what the data might actually represent.. Hopefully you agree with my changes made, thanks for reading!<br>
+Jakob
 
 
 

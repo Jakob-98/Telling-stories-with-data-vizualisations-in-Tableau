@@ -21,6 +21,9 @@ DISCLAIMER: <br>
 ### Other visualizations: 
 [visualizations](visualizations.md)
 
+### Critique by design
+[click here!](critiquebydesign.md)
+
 ### Final Project:
 [visualizations](final.md)
 

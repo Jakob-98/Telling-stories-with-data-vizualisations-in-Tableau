@@ -25,9 +25,9 @@ I spoke to two peers about my work, both have analytical backgrounds but no real
 I got the following responses: 
 
 *Respondent 1:* I dont fully understand the title and subtitle, what am I looking at? 
-The graphs are clear but I think making the values more distinct would help. After showing the original paper:
+The lines are clear but I think making the values more distinct would help (I believe he meant adding indicators). *After showing the original article:* 'but you're showing a different ..(story) with this graph than the one in the article, the article is about a decreasing rate, and that does not show in your visualization' *- I agreed with this, and this is something I had to change.* 
 
-*Respondent 2:* I don't really see clear changes in Australia or the UK, is that intended? (After looking at the original paper): if youre trying to show changes in rate, it might be unclear because the russia bar is quite high. 
+*Respondent 2:* I don't really see clear changes in Australia or the UK, is that intended? What is a "key" rate? tip: don't show both the legend and the names (I overlooked this). *After looking at the original article:* if youre trying to show changes in rate, it might be unclear because the russia bar is quite high. 
 
 
 

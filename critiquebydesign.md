@@ -1,1 +1,2 @@
 ### Critique by design
+In the following part of the portfolio, I will be giving critique on a comically bad visualization by the New York Times in their article from 09/18/2019 about [Why the Fed Lowered Interest Rates Again](https://www.nytimes.com/interactive/2019/09/18/business/economy/fed-second-rate-cut.html). The visualization is one that tries to show the reader everything and conveys nothing. It is a futile attempt to support the text in a meaningful and somewhat 'interesting to the eye' manner, but it failed to impress. 

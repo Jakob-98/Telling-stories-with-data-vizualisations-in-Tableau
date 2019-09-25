@@ -27,6 +27,9 @@ As for the final section, statistical vizual fallacies in media, I have not chos
 
 ### Sketches: 
 
+First graph Simpson's paradox: 
+![image](/berkeleysketch.png)
+
 Example sketch media: 
 ![image](https://external-preview.redd.it/WBFMxI4FdFUAoPxaqcxdk6tAdP9Ys4eQDpSlJLUZTlY.jpg?auto=webp&s=7da4d7c3f96cfd64c2173a1737eb4bbb57c596c7)
 Improved the design so that the bar chart is actually on scale: 

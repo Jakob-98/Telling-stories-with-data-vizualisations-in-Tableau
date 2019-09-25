@@ -25,8 +25,9 @@ As for the final section, statistical vizual fallacies in media, I have not chos
 
 ### Sketches: 
 
-Media: 
+Example sketch media: 
 ![image](https://external-preview.redd.it/WBFMxI4FdFUAoPxaqcxdk6tAdP9Ys4eQDpSlJLUZTlY.jpg?auto=webp&s=7da4d7c3f96cfd64c2173a1737eb4bbb57c596c7)
+Improved the design so that the bar chart is actually on scale: 
 <iframe title="Sonntagsfrage nationalratswahl 2019 (%)" aria-label="Column Chart" id="datawrapper-chart-BbmQP" src="//datawrapper.dwcdn.net/BbmQP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="219"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
 [data source](https://www.reddit.com/r/dataisugly/comments/d8ob0d/percentages_are_hard/)

@@ -4,7 +4,7 @@
 ### Project outline & proposal
 For my final project I will be taking a look at common statistical fallacies and exploring them by creating visualizations. These visualizations will hopefully contribute to our insights regarding these fallacies, and allow us to prevent us from applying them in our daily and proffesional lives. The idea of this project has greatly been influenced by the works of [Daniel Kahneman](https://kahneman.socialpsychology.org/), especially his book [thinking fast and slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) which I recommend everyone who is interested in such subjects to read. 
 
-Key statistical fallicies that will be explored are the Simpson's paradox, regression to the mean, availability, the gamblers fallacy, and false causal statistical relationships (due to third variables). 
+Key statistical fallicies I am to explore are the Simpson's paradox, regression to the mean, availability, the gamblers fallacy, and false causal statistical relationships (due to third variables). 
 
 Lastly, I want to dedicate a section to fallacies in media; often enough one can find themselves looking a skewed bar or pie chart in a political-scented news channel. I want to see how badly the charts respresent the data and what can be improved to decrease the {..} it has on the viewer. 
 
@@ -16,22 +16,24 @@ The story arc will be introduced with allowing the reader to fall for a statisti
 For the purpose of the final project, I will be creating a page using shorthand as a platform. I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
 
 ### Finding datasets
-The dataset section for my project is a bit different from other projects I suppose, since the misrespresentation of statistics is more important than the actual data itself. I'm still very much on the lookout for valid datasets for these fallacies but it is a work in progress. 
 
-A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. 
+
+A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. I will use the example 
 
 [Dataset](/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)
 
 As for the final section, statistical vizual fallacies in media, I have not chosen the specific data visualizations I will be improving upon, but plenty can be found on the subreddit [dataisugly](https://www.reddit.com/r/dataisugly/)
 
-
 ### Sketches: 
+For 3 out of 6 subjects I aim to explore, I have decided how to respresent the data. The sketches below will be an indicator of the final representation. 
 
 First graph Simpson's paradox used to show the difference in acceptance rates: 
 ![image](/berkeleysketch.png)
+[source](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
 
 Showing the actual acceptance rate per subject: 
 ![image](/berkeley.jpg)
+No source - approximation
 
 Regression to the mean: singling out a single case for explanation: 
 ![image](/regmean.jpg)

@@ -16,6 +16,8 @@ The story arc will be introduced with allowing the reader to fall for a statisti
 For the purpose of the final project, I will be creating a page using shorthand as a platform. I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
 
 ### Finding datasets
+The dataset section for my project is a bit different from other projects I suppose, since the misrespresentation of statistics is more important than the actual data itself. I'm still very much on the lookout for valid datasets for these fallacies but it is a work in progress. 
+
 A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. 
 
 [Dataset](/data/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)

@@ -1,19 +1,26 @@
 [Back](https://portfolio.jakobs.dev)
-# Final project - finding truth in statistics
+# Final project - finding truth in statistics - part 1
 
 ### Project outline & proposal
 For my final project I will be taking a look at common statistical fallacies, something which humans have a tendency to, and exploring them by creating visualizations. These visualizations will hopefully contribute to our insights regarding these fallacies, and allow us to prevent us from applying them in our daily and proffesional lives. The idea of this project has greatly been influenced by the works of [Daniel Kahneman](https://kahneman.socialpsychology.org/), especially his book [thinking fast and slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) which I recommend everyone who is interested in such subjects to read. 
 
-I will explore the statistical fallacies often made 
+Key statistical fallicies that will be explored are the Simpson's paradox, regression to the mean
 
-Lastly, I want to dedicate a section to fallacies made on purpose; often enough one can find themselves looking a skewed bar or pie chart in a political-scented news channel. I want to see how badly the charts respresent the data and what can be improved to decrease the {..} it has on the viewer. 
+Lastly, I want to dedicate a section to fallacies in media; often enough one can find themselves looking a skewed bar or pie chart in a political-scented news channel. I want to see how badly the charts respresent the data and what can be improved to decrease the {..} it has on the viewer. 
+
+### Story Arc
+The story arc will be introduced with allowing the reader to fall for a statistical fallacy themselves. They will be asked to find a cause for the statistical truth that 'highly intelligent women tend to marry less intelligent men than 
+
 
 ### Choosing the methodology 
 For the purpose of the final project, I will be creating a page using {..} as a platform. 
 
 ### Finding datasets
+A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. 
 
 [Dataset](/data/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)
+
+As for the final section, statistical vizual fallacies in media, I have not chosen the specific data visualizations I will be improving upon, but plenty can be found on the subreddit [dataisugly](https://www.reddit.com/r/dataisugly/)
 
 
 

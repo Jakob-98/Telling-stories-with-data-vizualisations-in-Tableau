@@ -13,7 +13,7 @@ The story arc will be introduced with allowing the reader to fall for a statisti
 
 
 ### Choosing the methodology 
-For the purpose of the final project, I will be creating a page using shorthand as a platform. 
+For the purpose of the final project, I will be creating a page using shorthand as a platform. I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
 
 ### Finding datasets
 A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. 

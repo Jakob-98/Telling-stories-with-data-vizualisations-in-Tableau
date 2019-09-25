@@ -20,17 +20,24 @@ The dataset section for my project is a bit different from other projects I supp
 
 A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. 
 
-[Dataset](/data/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)
+[Dataset](/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)
 
 As for the final section, statistical vizual fallacies in media, I have not chosen the specific data visualizations I will be improving upon, but plenty can be found on the subreddit [dataisugly](https://www.reddit.com/r/dataisugly/)
 
 
 ### Sketches: 
 
-First graph Simpson's paradox: 
+First graph Simpson's paradox used to show the difference in acceptance rates: 
 ![image](/berkeleysketch.png)
 
-Example sketch media: 
+Showing the actual acceptance rate per subject: 
+![image](/berkeley.jpg)
+
+Regression to the mean: singling out a single case for explanation: 
+![image](/regmean.jpg)
+
+Example media comparison: 
+I would show the original media post and compare it to the improved visualization, and explore the implications the original image has on the interpretation of the image. 
 ![image](https://external-preview.redd.it/WBFMxI4FdFUAoPxaqcxdk6tAdP9Ys4eQDpSlJLUZTlY.jpg?auto=webp&s=7da4d7c3f96cfd64c2173a1737eb4bbb57c596c7)
 Improved the design so that the bar chart is actually on scale: 
 <iframe title="Sonntagsfrage nationalratswahl 2019 (%)" aria-label="Column Chart" id="datawrapper-chart-BbmQP" src="//datawrapper.dwcdn.net/BbmQP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="219"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>

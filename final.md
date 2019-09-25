@@ -15,7 +15,12 @@ The story arc will be introduced with allowing the reader to fall for a statisti
 ### Choosing the methodology 
 For the purpose of the final project, I will be creating a page using shorthand as a platform. I will use a combination of rawgraphs.io, datawrapper.de and tableau as visualization tools, as well as Adobe Illustrator for possible final touches & other visualizations that I deem neccessary to convey the story.
 
-### Finding datasets
+### Finding datasets:
+The datasets I will be using are mostly relevant to show the reader what the implications of statistical fallacies are, and therefore the actual datasets are less relevant than the message that is conveyed by the visualization. I'm exploring different datasets from publications regarding these statistical fallacies since on most of these fallacies, research has extensively been done. 
+
+For the availability heuristic I currently plan on scraping the data from [this research paper](https://pdfs.semanticscholar.org/1c2b/6ad0bc7336747c1d39ee4c8a9011cdf3a21f.pdf) titled "How Do People Judge Risks:
+Availability Heuristic, Affect Heuristic, or Both?". However, I might choose a different dataset later on. I can use the data from the research to show the impact of the availability heuristic on ones perception of statistics, this will probably be done using a bar graph. 
+
 
 
 A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. I will use the example 

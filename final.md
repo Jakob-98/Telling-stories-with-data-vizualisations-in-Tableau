@@ -18,12 +18,16 @@ For the purpose of the final project, I will be creating a page using shorthand 
 ### Finding datasets:
 The datasets I will be using are mostly relevant to show the reader what the implications of statistical fallacies are, and therefore the actual datasets are less relevant than the message that is conveyed by the visualization. I'm exploring different datasets from publications regarding these statistical fallacies since on most of these fallacies, research has extensively been done. 
 
+Disclaimer; the datasets I have shown below are not the final datasets I will be using, since I'm currently still researching the topics and am constantly finding interesting data sources. 
+
 For the availability heuristic I currently plan on scraping the data from [this research paper](https://pdfs.semanticscholar.org/1c2b/6ad0bc7336747c1d39ee4c8a9011cdf3a21f.pdf) titled "How Do People Judge Risks:
 Availability Heuristic, Affect Heuristic, or Both?". However, I might choose a different dataset later on. I can use the data from the research to show the impact of the availability heuristic on ones perception of statistics, this will probably be done using a bar graph. 
 
+For the gamblers fallacy I am planning to scrape the data from [this paper](https://www.stat.berkeley.edu/~aldous/157/Papers/croson.pdf), and explore the fallacy further by showcasing the statistics of probably during gambling. This will be done by creating my own dataset. 
 
+For false causal statistical relationships there are many datasets available to get the point across, especially when using the infamous causaution vs correlation example. [This website](https://www.tylervigen.com/spurious-correlations) shows interesting "spurious correlations" with sources, I'm looking into finding a similar relationship on my own but I haven't had success yet. 
 
-A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. I will use the example 
+A specific dataset for regression to the mean is not relevant, since it will be a vizualisation explaining the effects of correlation. Any dataset with correlation will suffice, and I have not yet decided which dataset will be used. 
 
 [Dataset](/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)
 

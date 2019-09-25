@@ -13,6 +13,7 @@ For the purpose of the final project, I will be creating a page using {..} as a 
 
 ### Finding datasets
 
+[Dataset](/data/Simpsonsparadox.xlsx) showcasing Simpson's paradox using the [UC Berkeley Lawsuit](https://medium.com/@dexter.shawn/how-uc-berkeley-almost-got-sued-because-of-lying-data-aaa5d641f571)
 
 
 

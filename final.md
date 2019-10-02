@@ -55,6 +55,95 @@ Improved the design so that the bar chart is actually on scale:
 
 [data source](https://www.reddit.com/r/dataisugly/comments/d8ob0d/percentages_are_hard/)
 
+### Part II: final project
+## target audience
+My target audience is people who are inclined to critical thinking, may or may not have a base idea of statistics. 
+Persona: 
+
+
+## in-detail storyboard
+My storyboard and wireframes consist of the story I will be presenting to the audience. It is a 3-part story showing instances where stories, stastics, interpretations & data don't allign. The reader will be provoked to critically think about (..)  
+
+Please note that this is just an indicator of the final version of the project, and the data visualizations/sources/text area's are not final.
+https://preview.shorthand.com/K0jOnPXPOvScs055
+
+
+## Visualizations
+I sketched the 4 main visualizations for the key 2 parts of my story. I have not sketched my last part (media) since I will be creating & adding them next week. In the sketches, geting information about the titles/lables/sources is less important to me than the type of visualization, and wether it supports the visualization. In my final visualization I will add some final touches to source & titles. 
+
+My first graphics are more of an info-graphic style, as it it basically a normal distribution and showing where the imaginary bar-goer is compared to the other bar-goer. 
+
+I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story? 
+
+
+Story: 
+'''Today were going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
+
+
+PART 1) 
+Highly intelligent women tend to mary men who are less intelligent than they are.
+
+why?
+
+Daniel kahneman, nobel prize winner in economics claims this not to be a causal relationship but one of pure statistics. Lets take a look at why this might be. 
+
+Youre at a bar, and youre an exceptionally smart individual. You are a statistical outlier. You see someone else at the bar who looks interesting. At this moment you're not comparing your IQ's, you just want to have good fun. Here regression to the mean comes to play; you're an outlier, the chances he is a higher outlier is lower than. This is a biased approach to this 'problem'
+PART 2) 
+As we have seen, we sometimes try to create a story before thinking about or data statistics, and this can be dangerous as we have just seen. But what if we take a look where statistics create the story which is wrong? 
+
+PART 3)
+
+Stories can be wrong. Statistics can be wrong. Keep thinking critically. If youre interested in more of this read kahnemans book.'''
+
+
+
+
+## user-research protocol
+The .. key aspects I will try to unveil during the interviews are
+	Do the examples in the story fit the story? 
+	Do the visualizations add value to the story?
+	What might be confusing about the visualizations?
+	What would you have done differently in these visualisations? 
+	Do you feel like there is a clear message at the end of the story? 
+	
+
+## questions 
+I will begin my 
+
+
+//what part of the graphics were confusing to you? 
+
+//If you were to retell this story, what would you change? 
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+## individual interview 1
+Exploratory interview; does the current story make sense? 
+Ricardo, a MISM student & friend: 
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+Part 1a/1b/1c. Looks good, I like it.  -> you want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
+
+Do you think it supports the story. 
+
+2a: what is the acceptance rate? -> unclear what this means. There should be a note saying what this means. 
+What is 1973? (its the year). It should be more clear that it is from one year. 
+
+I dont like the visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
+TMI if I add the values of the specific sectors. 
+
+## individual interview 2
+
+## individual interview 3
+
+## Insights and changes made to sketches, storyboards & wireframes
+
+
+
+
+
+
+
+
 
 
 [Back](https://portfolio.jakobs.dev)

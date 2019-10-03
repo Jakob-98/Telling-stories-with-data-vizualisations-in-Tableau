@@ -73,8 +73,11 @@ I sketched the four main visualizations for the key two parts of my story. In th
 
 Wireframe visualizations: 
 ![image](berkbar.jpeg)
+
 ![image](your IQ.jpeg)
+
 ![image](His IQ.jpeg)
+
 ![image](correlations.jpeg)
 
 Then visualizations of the first part of my story are almost more of an info-graphic style. This was decided as I felt like this conveyed the message 

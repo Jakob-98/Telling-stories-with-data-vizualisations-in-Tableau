@@ -59,7 +59,7 @@ Improved the design so that the bar chart is actually on scale:
 I decided to decrease the scope of the project after thinking about it and initial feedback from my peers. The story now consists of three elements; the regression to the mean example, the Simpsons Paradox and media statistical fallacies. The focus is on the first two, as the final one will be constructed during the finalization of the project website. 
 
 ### target audience
-The audience that I target with my story are people that are somewhat familiar with data visualizations and 
+My target audience are people with some general knowledge or experience in statistics & visualizations, and those who are able to or want to think critically. I would say my target audience would fall in line with the average New York Times reader.  
 
 ### in-detail storyboard
 I have created the website where I will be presenting the final project. 
@@ -86,8 +86,7 @@ The last takeaway is:
 #### When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
 
 With the final message being: 
-#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality.   OR -> 'there are lies, dammned lies, and statistics'-Mark Twain
-
+#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality. 
 
 Story: 
 '''Today were going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
@@ -112,43 +111,95 @@ Stories can be wrong. Statistics can be wrong. Keep thinking critically. If your
 
 
 ## user-research protocol
-The .. key aspects I will try to unveil during the interviews are
+The key aspects I will try to uncover during the interviews are
 	Do the examples in the story fit the story? 
 	Do the visualizations add value to the story?
 	What might be confusing about the visualizations?
 	What would you have done differently in these visualisations? 
 	Do you feel like there is a clear message at the end of the story? 
 	
-
-## questions 
-I will begin my 
-
-
-//what part of the graphics were confusing to you? 
-
-//If you were to retell this story, what would you change? 
+I start my interview by stating the following questions: 
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
+Follow-up questions might be: 
+//What part of the graphics were confusing to you? 
+//If you were to retell this story, what would you change? 
+
+
 ## individual interview 1
-Exploratory interview; does the current story make sense? 
 Ricardo, a MISM student & friend: 
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
-Part 1a/1b/1c. Looks good, I like it.  -> you want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
+Response: 
+	Part 1a/1b/1c. Looks good, I like it.  You want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
 
-Do you think it supports the story. 
+//Do you think it supports the story?
 
-2a: what is the acceptance rate? -> unclear what this means. There should be a note saying what this means. 
-What is 1973? (its the year). It should be more clear that it is from one year. 
+Response: 
+	For visualization 2a: what is the acceptance rate? It is unclear what this means. There should be a note saying what this means. 
+	What is 1973? (its the year). It should be more clear that it is from one year. 
 
-I dont like the visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
-TMI if I add the values of the specific sectors. 
+	I dont like the regression visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
+	TMI if I add the values of the specific sectors. 
 
+After asking the initial questions, Ricardo stated that the 
 ## individual interview 2
+Ken, an employee at the CS department at CMU:
+
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
+
+Response: 
+	Title: youre doing a comparison between what people think it says 'data,', and what it actually says. If you want to be clearer about it, say 'between' instead of 'in'. 
+
+	First thing: youre making an assumption; highly intelligent people drink in bars. Youre making an assumption about people in the bar. The fact that youre in a bar has no statistical significance on the people there. Your intelligence isnt related to being in a bar. Being in a bar is a third variable which youre not taking into account. 
+
+	'Solution': Lets acknowledge; we dont have perfect data, this is an example and third variables are left out. 
+
+	Correlation graph: I'm  not a fan. It is not super clear. Percentage of female applicants and department acceptance rate... is it for seperate departments?  X axis, is it only females accepted or everyone accepted? (Everyone, key point). I have a problem beause you're overloading this graph. Department acceptance rates: you've got multiple departments with multiple acceptance rates. Change label to admittance rate per deparment and for both sexes (overall acceptance rate per deparment). And for the y axis change it to female applicatants per department
 
 ## individual interview 3
+//I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
-## Insights and changes made to sketches, storyboards & wireframes
+Response: 
+	'what do you mean by stories?'. 
+
+	(In regards to the first 'question') So that means the reverse is true too?Since its true on 'both ' sides, it is not really controversial. The face value makes it look like its shallow, but is isnt really. The 'one out of twenty people ' is a good visualization to showcase this. 
+
+	The bellcurve is fitting. I understand that.
+
+	(When looking at tableau version of the correlation graph) What do the sizes mean? Too many things. X y and size is confusing. 
+	Maybe break it up into two graphs? 
+
+	A bar graph again might be better. Per deparment the acceptance rate of women. 
+	The graph is unclear. Doesn't support the story very well. You have to look at it for a while. 
+
+	The whole story is a bit confusing. I understand what you're saying. 
+
+	Show both women and men acceptance rates are the same per department then you can see it better. 
+
+## Insights for changes made to sketches, storyboards & wireframes
+Well.. sh\*t. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 
+
+In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. The problem is, since they're 'paradoxes' and 'fallacies', they are inherently tough to understand even for an educated audience. This caused my story to be going from left to right, jumping from assumptions to conlusions.The process of trying to streamline this has not been an enjoyable one, and I've been spending most of my time finding obscure examples which might fit both the story and the timeframe. In the full project on shorthand I will have the chance to underline my thoughts and assumptions, but in the presentation I will not. 
+
+The main change will be that I will be completely separating my final project and my presentation. I will create a seperate page on shorthand for the presentation which will focus on only ONE example. This page will be included (the content will be copied) to my main shorthand page for the project.  
+
+Changes that will be made to the project and presentation:
+- Presentation: 
+	- The berkeley 1973 admittance rate case will be the prime subject of my presentation, and will remain the second part of my project story arc. I have chosen this because I think this case showcases the underlying thought I'm trying to convey the best. My project story arc will have a different ending message than the presentation. I am thinking of using the famous 'There are three kinds of lies: lies, damned lies, and statistics' line popularized my Mark Twain as my ending message for the presentation. This fits the apparent Simpsons Paradox well. 
+	- I should no longer define it as statistics in the presentation story arc. I can explain this in the project, and I should define the relationship between statistics, data, visualizations and storytelling. 
+	
+- Project: 
+	- I need to vocalize the various assumptions I make better, and showcase that 
+	- In order to show the relationship between a data and a story, I need to visualize this. This is mainly for the presentation, as my audience needs to quickly grasp that they don't allign at all times.  
+	
+Visualizations: 
+	- The bell curve for the first part of the story seems to work. I'm keeping this in together with the '1 in 20' visualization. 
+	- The bar graph for the Berkeley case needs to be supported by numbers to make it more clear what it showcases. I will add a table in the graph
+	- Sources needs to be properly added to the final versions which will be made in Tableau
+	- Titles needs to be improved upon for all visualizations to tell the story. The reader goes from reading the title to trying to understand the graph, I need to focus on that. 
+	- The current visualization for the negative correlation between female applicants and acceptance rate is unclear. I need to split up what I'm trying to say and make more clear what the axis are. I have a hard time explaining it, that means that the audience will have an even harder time grasping it. 
+	- 
 
 
 

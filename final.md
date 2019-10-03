@@ -92,8 +92,8 @@ Visualizations I showed to my interviewees:
 [imgur link](https://imgur.com/a/bXjOHad)
 
 
-The rough story I told my interviewees: 
-Today were going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
+#### roughly the story I told the interviewees: 
+Today we're going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
 
 (PART 1 of story) 
 Highly intelligent women tend to mary men who are less intelligent than they are.
@@ -132,15 +132,15 @@ Ricardo, a MISM student & friend:
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
 Response: 
-	Part 1a/1b/1c. Looks good, I like it.  You want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
+Part 1a/1b/1c. Looks good, I like it.  You want to include the source of this data. Also put a note in the assumptions. Youre making a huge assumption. 
 
 //Do you think it supports the story?
 
 Response: 
-	For visualization 2a: what is the acceptance rate? It is unclear what this means. There should be a note saying what this means. 
-	What is 1973? (its the year). It should be more clear that it is from one year. 
+For visualization 2a: what is the acceptance rate? It is unclear what this means. There should be a note saying what this means. 
+What is 1973? (its the year). It should be more clear that it is from one year. 
 
-	I dont like the regression visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
+I dont like the regression visualization  because basically the regerssion has a lot of noise and I cannot conclude something because of the high variance. The significance is too low to conclude something. The viz does not support my conclusion. MAybe you should consider showing the variance in the mean of acceptance rate. 
 	TMI if I add the values of the specific sectors. 
 
 After asking the initial questions, Ricardo stated that the 
@@ -150,13 +150,13 @@ Ken, an employee at the CS department at CMU:
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
 
 Response: 
-	Title: youre doing a comparison between what people think it says 'data,', and what it actually says. If you want to be clearer about it, say 'between' instead of 'in'. 
+Title: youre doing a comparison between what people think it says 'data,', and what it actually says. If you want to be clearer about it, say 'between' instead of 'in'. 
 
-	First thing: youre making an assumption; highly intelligent people drink in bars. Youre making an assumption about people in the bar. The fact that youre in a bar has no statistical significance on the people there. Your intelligence isnt related to being in a bar. Being in a bar is a third variable which youre not taking into account. 
+First thing: youre making an assumption; highly intelligent people drink in bars. Youre making an assumption about people in the bar. The fact that youre in a bar has no statistical significance on the people there. Your intelligence isnt related to being in a bar. Being in a bar is a third variable which youre not taking into account. 
 
-	'Solution': Lets acknowledge; we dont have perfect data, this is an example and third variables are left out. 
+'Solution': Lets acknowledge; we dont have perfect data, this is an example and third variables are left out. 
 
-	Correlation graph: I'm  not a fan. It is not super clear. Percentage of female applicants and department acceptance rate... is it for seperate departments?  X axis, is it only females accepted or everyone accepted? (Everyone, key point). I have a problem beause you're overloading this graph. Department acceptance rates: you've got multiple departments with multiple acceptance rates. Change label to admittance rate per deparment and for both sexes (overall acceptance rate per deparment). And for the y axis change it to female applicatants per department
+Correlation graph: I'm  not a fan. It is not super clear. Percentage of female applicants and department acceptance rate... is it for seperate departments?  X axis, is it only females accepted or everyone accepted? (Everyone, key point). I have a problem beause you're overloading this graph. Department acceptance rates: you've got multiple departments with multiple acceptance rates. Change label to admittance rate per deparment and for both sexes (overall acceptance rate per deparment). And for the y axis change it to female applicatants per department
 
 ## individual interview 3
 //I'm going to tell you a story which is supported by visualizations, could you tell me how and in what these graphics help underline the story?
@@ -164,19 +164,19 @@ Response:
 Response: 
 	'what do you mean by stories?'. 
 
-	(In regards to the first 'question') So that means the reverse is true too?Since its true on 'both ' sides, it is not really controversial. The face value makes it look like its shallow, but is isnt really. The 'one out of twenty people ' is a good visualization to showcase this. 
+(In regards to the first 'question') So that means the reverse is true too?Since its true on 'both ' sides, it is not really controversial. The face value makes it look like its shallow, but is isnt really. The 'one out of twenty people ' is a good visualization to showcase this. 
 
-	The bellcurve is fitting. I understand that.
+The bellcurve is fitting. I understand that.
 
-	(When looking at tableau version of the correlation graph) What do the sizes mean? Too many things. X y and size is confusing. 
+(When looking at tableau version of the correlation graph) What do the sizes mean? Too many things. X y and size is confusing. 
 	Maybe break it up into two graphs? 
 
-	A bar graph again might be better. Per deparment the acceptance rate of women. 
+A bar graph again might be better. Per deparment the acceptance rate of women. 
 	The graph is unclear. Doesn't support the story very well. You have to look at it for a while. 
 
-	The whole story is a bit confusing. I understand what you're saying. 
+The whole story is a bit confusing. I understand what you're saying. 
 
-	Show both women and men acceptance rates are the same per department then you can see it better. 
+Show both women and men acceptance rates are the same per department then you can see it better. 
 
 ## Insights for changes made to sketches, storyboards & wireframes
 Well.. I'm not happy with the results. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 

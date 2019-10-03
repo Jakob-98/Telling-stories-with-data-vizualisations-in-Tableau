@@ -69,7 +69,13 @@ Please note that this is just an indicator of the final version of the project, 
 
 
 #### Visualizations
-I sketched the four main visualizations for the key two parts of my story. I have not sketched my last part (media) since I will be creating & adding them next week. In the sketches, the information regarding the titles/lables/sources is less relevant to me than the type of visualization, and wether it supports the visualization. These will therefore not be included in the questions for the interviewees. In my final visualization I will add some final touches to source & titles. 
+I sketched the four main visualizations for the key two parts of my story. In the sketches, the information regarding the titles/lables/sources is less relevant to me than the type of visualization, and wether it supports the visualization. These will therefore not be included in the questions for the interviewees.
+
+Wireframe visualizations: 
+![image](berkbar.jpeg)
+![image](your IQ.jpeg)
+![image](His IQ.jpeg)
+![image](correlations.jpeg)
 
 Then visualizations of the first part of my story are almost more of an info-graphic style. This was decided as I felt like this conveyed the message 
 

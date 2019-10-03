@@ -86,7 +86,7 @@ The last takeaway is:
 #### When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
 
 With the final message being: 
-#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality.  
+#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality.   OR -> 'there are lies, dammned lies, and statistics'-Mark Twain
 
 
 Story: 

@@ -71,17 +71,6 @@ Please note that this is just an indicator of the final version of the project, 
 #### Visualizations
 I sketched the four main visualizations for the key two parts of my story. In the sketches, the information regarding the titles/lables/sources is less relevant to me than the type of visualization, and wether it supports the visualization. These will therefore not be included in the questions for the interviewees.
 
-Wireframe visualizations: 
-![image](berkbar.jpeg)
-
-![image](your IQ.jpeg)
-
-![image](His IQ.jpeg)
-
-![image](correlations.jpeg)
-
-Then visualizations of the first part of my story are almost more of an info-graphic style. This was decided as I felt like this conveyed the message 
-
 I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story?
 
 
@@ -98,8 +87,12 @@ The last takeaway is:
 With the final message being: 
 #### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality. 
 
+
+Visualizations I showed to my interviewees: 
+[imgur link](https://imgur.com/a/bXjOHad)
 Story: 
-'''Today were going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
+'''
+Today were going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
 
 
 PART 1) 
@@ -115,7 +108,8 @@ As we have seen, we sometimes try to create a story before thinking about or dat
 
 PART 3)
 
-Stories can be wrong. Statistics can be wrong. Keep thinking critically. If youre interested in more of this read kahnemans book.'''
+Stories can be wrong. Statistics can be wrong. Keep thinking critically. If youre interested in more of this read kahnemans book.
+'''
 
 
 

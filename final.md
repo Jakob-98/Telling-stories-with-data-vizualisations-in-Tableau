@@ -55,25 +55,38 @@ Improved the design so that the bar chart is actually on scale:
 
 [data source](https://www.reddit.com/r/dataisugly/comments/d8ob0d/percentages_are_hard/)
 
-### Part II: final project
-## target audience
-My target audience is people who are inclined to critical thinking, may or may not have a base idea of statistics. 
-Persona: 
+# Part II: final project
+I decided to decrease the scope of the project after thinking about it and initial feedback from my peers. The story now consists of three elements; the regression to the mean example, the Simpsons Paradox and media statistical fallacies. The focus is on the first two, as the final one will be constructed during the finalization of the project website. 
+
+### target audience
+The audience that I target with my story are people that are somewhat familiar with data visualizations and 
+
+### in-detail storyboard
+I have created the website where I will be presenting the final project. 
+
+Please note that this is just an indicator of the final version of the project, and the data visualizations/sources/text area's are not final (as I will probably be making changes during this&following weeks). The website was used as a storyboard visualisation for my interviewees. 
+[storyboard](https://preview.shorthand.com/K0jOnPXPOvScs055)
 
 
-## in-detail storyboard
-My storyboard and wireframes consist of the story I will be presenting to the audience. It is a 3-part story showing instances where stories, stastics, interpretations & data don't allign. The reader will be provoked to critically think about (..)  
+#### Visualizations
+I sketched the four main visualizations for the key two parts of my story. I have not sketched my last part (media) since I will be creating & adding them next week. In the sketches, the information regarding the titles/lables/sources is less relevant to me than the type of visualization, and wether it supports the visualization. These will therefore not be included in the questions for the interviewees. In my final visualization I will add some final touches to source & titles. 
 
-Please note that this is just an indicator of the final version of the project, and the data visualizations/sources/text area's are not final.
-https://preview.shorthand.com/K0jOnPXPOvScs055
-
-
-## Visualizations
-I sketched the 4 main visualizations for the key 2 parts of my story. I have not sketched my last part (media) since I will be creating & adding them next week. In the sketches, geting information about the titles/lables/sources is less important to me than the type of visualization, and wether it supports the visualization. In my final visualization I will add some final touches to source & titles. 
-
-My first graphics are more of an info-graphic style, as it it basically a normal distribution and showing where the imaginary bar-goer is compared to the other bar-goer. 
+Then visualizations of the first part of my story are almost more of an info-graphic style. This was decided as I felt like this conveyed the message 
 
 I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story? 
+
+There are 3 key takeaways in the story. 
+The first being: 
+#### False stories are sometimes created by forgetting to think about statistics or data. 
+
+The second key takeaway is: 
+#### Data can sometimes give rise to a story which might not be in line with reality. 
+
+The last takeaway is: 
+#### When visualizations are used to create a story, one should think about why the creator is trying to tell that story. 
+
+With the final message being: 
+#### Stories, data and visualizations do not always allign or create a picture of reality. In the end, you are responsible for thinking for yourself and creating that picture of reality.  
 
 
 Story: 

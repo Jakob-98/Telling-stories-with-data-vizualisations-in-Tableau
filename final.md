@@ -90,27 +90,24 @@ With the final message being:
 
 Visualizations I showed to my interviewees: 
 [imgur link](https://imgur.com/a/bXjOHad)
-Story: 
-'''
+
+
+The rough story I told my interviewees: 
 Today were going to look at 3 different way data and their interpreted stories do not allign; lets start with a question; 
 
-
-PART 1) 
+(PART 1 of story) 
 Highly intelligent women tend to mary men who are less intelligent than they are.
 
 why?
 
 Daniel kahneman, nobel prize winner in economics claims this not to be a causal relationship but one of pure statistics. Lets take a look at why this might be. 
 
-Youre at a bar, and youre an exceptionally smart individual. You are a statistical outlier. You see someone else at the bar who looks interesting. At this moment you're not comparing your IQ's, you just want to have good fun. Here regression to the mean comes to play; you're an outlier, the chances he is a higher outlier is lower than. This is a biased approach to this 'problem'
-PART 2) 
+Youre at a bar, and youre an exceptionally smart individual. You are a statistical outlier. You see someone else at the bar who looks interesting. At this moment you're not comparing your IQ's, you just want to have good fun. Here regression to the mean comes to play; you're an outlier, the chances he is a higher outlier is lower than. This is a biased approach to this 'problem'. Here I showcase and explain the statistics)
+
+(PART 2 of story) 
 As we have seen, we sometimes try to create a story before thinking about or data statistics, and this can be dangerous as we have just seen. But what if we take a look where statistics create the story which is wrong? 
 
-PART 3)
-
-Stories can be wrong. Statistics can be wrong. Keep thinking critically. If youre interested in more of this read kahnemans book.
-'''
-
+(Here I showcase and the statistics regarding the Berkely case)
 
 
 
@@ -182,7 +179,7 @@ Response:
 	Show both women and men acceptance rates are the same per department then you can see it better. 
 
 ## Insights for changes made to sketches, storyboards & wireframes
-Well.. sh\*t. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 
+Well.. I'm not happy with the results. My story all over the place and my interviewees have had a hard time understanding the storyline. I feared this might be the case since I'm trying to convey multiple messages at once, and coming up with a frankensteins' monster of a conclusion. This isn't working right now, so things have to change. 
 
 In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. The problem is, since they're 'paradoxes' and 'fallacies', they are inherently tough to understand even for an educated audience. This caused my story to be going from left to right, jumping from assumptions to conlusions.The process of trying to streamline this has not been an enjoyable one, and I've been spending most of my time finding obscure examples which might fit both the story and the timeframe. In the full project on shorthand I will have the chance to underline my thoughts and assumptions, but in the presentation I will not. 
 
@@ -204,12 +201,11 @@ Visualizations:
 	- Sources needs to be properly added to the final versions which will be made in Tableau
 	- Titles needs to be improved upon for all visualizations to tell the story. The reader goes from reading the title to trying to understand the graph, I need to focus on that. 
 	- The current visualization for the negative correlation between female applicants and acceptance rate is unclear. I need to split up what I'm trying to say and make more clear what the axis are. I have a hard time explaining it, that means that the audience will have an even harder time grasping it. 
-	- 
 
 
+I have focussed on improving the visualizations to support the Berkeley case as this will be the key part of my presentation. I'm still working on the improvements but I'm very happy with the results so far. This is how I've changed the correlation graph to an actual story: 
 
-
-
+![image](BerkBetterViz.jpg)
 
 
 

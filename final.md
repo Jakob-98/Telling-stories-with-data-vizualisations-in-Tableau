@@ -183,19 +183,20 @@ Well.. I'm not happy with the results. My story all over the place and my interv
 
 In order to fit my project within the timeframe of the final presentation, I've been struggling with keeping the stories short and to the point. The problem is, since they're 'paradoxes' and 'fallacies', they are inherently tough to understand even for an educated audience. This caused my story to be going from left to right, jumping from assumptions to conlusions.The process of trying to streamline this has not been an enjoyable one, and I've been spending most of my time finding obscure examples which might fit both the story and the timeframe. In the full project on shorthand I will have the chance to underline my thoughts and assumptions, but in the presentation I will not. 
 
-The main change will be that I will be completely separating my final project and my presentation. I will create a seperate page on shorthand for the presentation which will focus on only ONE example. This page will be included (the content will be copied) to my main shorthand page for the project.  
+The main change will be that I will be completely separating my final project and my presentation. I will create a seperate page on shorthand for the presentation which will focus on only ONE example. This page will be included (the content will be copied) to my main shorthand page for the project. *The 1973 Berkeley case will now be my main focus for the project & presentation* in order to make it a coherent story. 
 
 Changes that will be made to the project and presentation:
 - Presentation: 
-	- The berkeley 1973 admittance rate case will be the prime subject of my presentation, and will remain the second part of my project story arc. I have chosen this because I think this case showcases the underlying thought I'm trying to convey the best. My project story arc will have a different ending message than the presentation. I am thinking of using the famous 'There are three kinds of lies: lies, damned lies, and statistics' line popularized my Mark Twain as my ending message for the presentation. This fits the apparent Simpsons Paradox well. 
+	- The berkeley 1973 admittance rate case will be the prime subject of my presentation. I have chosen this because I think this case showcases the underlying thought I'm trying to convey the best. My project story arc will have a different ending message than the presentation. I am thinking of using the famous 'There are three kinds of lies: lies, damned lies, and statistics' line popularized my Mark Twain as my ending message for the presentation. This fits the apparent Simpsons Paradox well. 
 	- I should no longer define it as statistics in the presentation story arc. I can explain this in the project, and I should define the relationship between statistics, data, visualizations and storytelling. 
 	
 - Project: 
 	- I need to vocalize the various assumptions I make better, and showcase that I'm showing examples not 'truths'.  
 	- In order to show the relationship between a data and a story, I need to visualize this. This is mainly for the presentation, as my audience needs to quickly grasp that they don't allign at all times.  
 	- For the project I will take the time to type out the assumptions, as I want the final project to read like a well thought out article. 
+	- I'm thining to completely remove the other story arcs and focussing on just the one, and maybe looking at how it is now (2019). 
 	
-Visualizations: 
+Visualizations:
 	- The bell curve for the first part of the story seems to work. I'm keeping this in together with the '1 in 20' visualization. 
 	- The bar graph for the Berkeley case needs to be supported by numbers to make it more clear what it showcases. I will add a table in the graph
 	- Sources needs to be properly added to the final versions which will be made in Tableau
@@ -204,9 +205,10 @@ Visualizations:
 
 
 I have focussed on improving the visualizations to support the Berkeley case as this will be the key part of my presentation. I'm still working on the improvements but I'm very happy with the results so far. This is how I've changed the correlation graph to an actual story: 
-
+#### improved visualization after feedback 1: 
 ![image](BerkOverallViz.png)
 
+#### improved visualization after feedback 2: 
 ![image](BerkBetterViz.png)
 
 

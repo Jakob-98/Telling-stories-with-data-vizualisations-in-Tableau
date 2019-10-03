@@ -205,8 +205,10 @@ Visualizations:
 
 I have focussed on improving the visualizations to support the Berkeley case as this will be the key part of my presentation. I'm still working on the improvements but I'm very happy with the results so far. This is how I've changed the correlation graph to an actual story: 
 
-![image](BerkBetterViz.png)
 ![image](BerkOverallViz.png)
+
+![image](BerkBetterViz.png)
+
 
 
 

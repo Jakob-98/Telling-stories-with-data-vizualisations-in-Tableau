@@ -73,7 +73,8 @@ I sketched the four main visualizations for the key two parts of my story. I hav
 
 Then visualizations of the first part of my story are almost more of an info-graphic style. This was decided as I felt like this conveyed the message 
 
-I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story? 
+I decided to show the difference in acceptance rate using a barchart, and the simpsons paradox by showcasing the correlation between acceptance rate per department and percentage of female applicants. These wireframes will be shown to my interview audience with the key question being; does it support the story?
+
 
 There are 3 key takeaways in the story. 
 The first being: 
@@ -190,8 +191,9 @@ Changes that will be made to the project and presentation:
 	- I should no longer define it as statistics in the presentation story arc. I can explain this in the project, and I should define the relationship between statistics, data, visualizations and storytelling. 
 	
 - Project: 
-	- I need to vocalize the various assumptions I make better, and showcase that 
+	- I need to vocalize the various assumptions I make better, and showcase that I'm showing examples not 'truths'.  
 	- In order to show the relationship between a data and a story, I need to visualize this. This is mainly for the presentation, as my audience needs to quickly grasp that they don't allign at all times.  
+	- For the project I will take the time to type out the assumptions, as I want the final project to read like a well thought out article. 
 	
 Visualizations: 
 	- The bell curve for the first part of the story seems to work. I'm keeping this in together with the '1 in 20' visualization. 

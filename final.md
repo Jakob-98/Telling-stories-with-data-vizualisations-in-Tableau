@@ -211,8 +211,23 @@ I have focussed on improving the visualizations to support the Berkeley case as 
 #### improved visualization after feedback 2: 
 ![image](BerkBetterViz.png)
 
+# Part III & IV: final project
 
+#### Project outline & final decisions
 
+#### Summary
+
+#### Major elements
+
+#### Datasets
+
+#### Approach
+
+#### Final Decisions
+*Final story link:*
+*Audience*
+*Work so far*
+*References:*
 
 
 [Back](https://portfolio.jakobs.dev)

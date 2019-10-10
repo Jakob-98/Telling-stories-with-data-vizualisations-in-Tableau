@@ -216,12 +216,10 @@ I have focussed on improving the visualizations to support the Berkeley case as 
 ![image](BerkBetterViz.png)
 
 # Part III & IV: final project
-A major change has been made from the last iteration of the final project; the full focus is now on the 1973 Berkeley acceptance rate case. 
+#### Work, final decisions, observations &* audience
+A major change has been made from the last iteration of the final project; the full focus is now on the 1973 Berkeley acceptance rate case. This is because I observed the audience to find 3 story arcs too much. The fact that we're dealing withn the Simpson's Paradox is something which I deemed less significant, and has been made a small element on the story instead of the main element. In the in-class feedback session, it became clear that the first bar graph from the last wireframe in section II wasn't clear enough. I added a male and female bathroom sign, and flipped the axis to make it more coherent. The work was made in Tableau, with certain emelemnts (the bathroom signs) edited in Adobe Illustrator. 
 
-#### Project outline & final decisions
-For my final project I will be taking a look at common statistical fallacies and exploring them by creating visualizations.
-
-The fact that we're dealing withn the Simpson's Paradox is something which I deemed less significant. 
+The intended audience was formulated to be an average New York Times reader in part II of the final project. As my view regarding the project has shifted, so has my view of the intended audience. Since the focus has been on multiple fallacies before, and is now on explaining a single fallacy, the average knowledge from the audience regarding statistics and visualizations has been reduced. Simple knowledge about barcharts and percentages is enough to understand the story. My intended audience is therefore those who are interested in learning more about statistical fallacies, as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. Sex bias stories get a lot of attention in media as of a few years, but this story underlines that sexism and sex bias is sometimes *not* the case. Hopefully the audience expecting a bashdown on 'males who get admitted more often' are surprised by the 'twist' of the story, and are therefore interested in learning more about statistics, data and stories. 
 
 #### Executive summary
 In the fall of 1973, the UC Berkeley admittance rates between sexes were significantly different. The question arose whether or not this is a case of gender bias, discrimination, or if this is caused by other factors. It turns out the aggregated data tells a different story from the non-aggregated data. This was a case of the Simpson's Paradox, as it turned out women tended to apply to departments which were diffcult to get into, more often. The admittance rates were quite similiar if looked at on a per-department basis. This shows that statistics and data can't always be trusted. Call to action: "There are three type of lies: lies, damned lies and statistics" -Mark Twain. Think critically. 
@@ -234,18 +232,12 @@ Next, it shows the main visualization which showcases the statistical fallacy.
 Finally, the key visualizations to get back to the aggregated data, which encloses the story arc in a circle. In case the audience member has not yet had their 'oh! I see'-moment, these visualizations should incur that. 
 ![image](BerkeleyWomenAggregate.png)
 ![image](BerkeleyMenAggregate.png)
-#### Approach
 
-#### Final Decisions
-
+#### Final work
 *Final story link:*
 
 You can find the final project [here](https://carnegiemellon.shorthandstories.com/serlier/index.html).
 **important note:** I intend to remove the 'overview' section after the presentation, as I only intend it to be used for easier explanation during the presentation. 
-
-*Audience*
-
-The intended audience was formulated to be an average New York Times reader in part II of the final project. As my view regarding the project has shifted, so has my view of the intended audience. Since the focus has been on multiple fallacies before, and is now on explaining a single fallacy, the average knowledge from the audience regarding statistics and visualizations has been reduced. Simple knowledge about barcharts and percentages is enough to understand the story. My intended audience is therefore those who are interested in learning more about statistical fallacies, as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. Sex bias stories get a lot of attention in media as of a few years, but this story underlines that sexism and sex bias is sometimes *not* the case. Hopefully the audience expecting a bashdown on 'males who get admitted more often' are surprised by the 'twist' of the story, and are therefore interested in learning more about statistics, data and stories. 
 
 *References:*
 

@@ -237,13 +237,18 @@ Finally, the key visualizations to get back to the aggregated data, which enclos
 #### Approach
 
 #### Final Decisions
+
 *Final story link:*
+
 You can find the final project [here](https://carnegiemellon.shorthandstories.com/serlier/index.html).
 **important note:** I intend to remove the 'overview' section after the presentation, as I only intend it to be used for easier explanation during the presentation. 
+
 *Audience*
+
 The intended audience was formulated to be an average New York Times reader in part II of the final project. As my view regarding the project has shifted, so has my view of the intended audience. Since the focus has been on multiple fallacies before, and is now on explaining a single fallacy, the average knowledge from the audience regarding statistics and visualizations has been reduced. Simple knowledge about barcharts and percentages is enough to understand the story. My intended audience is therefore those who are interested in learning more about statistical fallacies, as well as those who are just looking for an 'interesting and fun read'. I believe that I succeeded in creating the visualizations accessible for the general public and understanding. Sex bias stories get a lot of attention in media as of a few years, but this story underlines that sexism and sex bias is sometimes *not* the case. Hopefully the audience expecting a bashdown on 'males who get admitted more often' are surprised by the 'twist' of the story, and are therefore interested in learning more about statistics, data and stories. 
 
 *References:*
+
 For the dataset I used data gathered from [wikipedia](https://en.wikipedia.org/wiki/Simpson%27s_paradox) and from [this article](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf). [The paper](https://pdfs.semanticscholar.org/b704/3d57d399bd28b2d3e84fb9d342a307472458.pdf) was also used as a reference for creating some elements of the general storyline.
 
 The following [Pexels photo](https://www.pexels.com/photo/accomplishment-ceremony-education-graduation-267885/) was added to the shorthand. The following illustrations were used: [male bathroom sign](https://upload.wikimedia.org/wikipedia/en/b/bb/Male_Bathroom_Symbol.png) and [female bathroom sign](https://upload.wikimedia.org/wikipedia/commons/e/e3/Toilet_women.svg)

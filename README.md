@@ -15,7 +15,7 @@ Lastly I hope to have a bit of fun. Usually I'm the type to avoid 'creative' sub
 ### Behind the scenes look regarding the final Project, Finding truth in statistics: 
 [Project: Behind the scences](final.md)
 
-*summary*
+*Summary:*
 In the fall of 1973, the UC Berkeley admittance rates between sexes were significantly different. The question arose whether or not this is a case of gender bias, discrimination, or if this is caused by other factors. It turns out the aggregated data tells a different story from the non-aggregated data. This was a case of the Simpson’s Paradox, as it turned out women tended to apply to departments which were diffcult to get into, more often. The admittance rates were quite similiar if looked at on a per-department basis. This shows that statistics and data can’t always be trusted. Call to action: “There are three type of lies: lies, damned lies and statistics” -Mark Twain. Think critically.
 
 [link to final project website](https://carnegiemellon.shorthandstories.com/serlier/index.html)

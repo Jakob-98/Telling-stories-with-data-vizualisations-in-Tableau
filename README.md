@@ -21,7 +21,8 @@ In the fall of 1973, the UC Berkeley admittance rates between sexes were signifi
 [link to final project website](https://carnegiemellon.shorthandstories.com/serlier/index.html)
 
 ### OECD data visualization
-[OECD visualizations](OECD.md)
+[Click here to go to the OECD visualizations page](OECD.md)
+
 This page contains different visualization of the same dataset; https://data.oecd.org/gga/general-government-debt.htm. The visualizations were made with datawrapper.de, Tableau and rawgraphs.io
 The dataset shows the general government debt in % of GDP of various countries during a period of around 20 years. The first bar chart shown is a chart made avaiable by the Economic co-operation and Development organization. Further visualizations are of my own work, these include an (improved) bar chart, a beeswarm plot, a boxplot, an areagraph and lastly, a heatmap. The beeswarm plot and areagraph are quite similar, they use nearly the same method to display data, and are very similar in axes and setup, apart from the fact that the beeswarm plot uses distinct ‘bubbles’ per year, whereas the area plot uses a gradual transition. The last visualization is wonderful for gaining much insight about the data when one has the chance to take their time to look at the data, but also instinctively see the trend in the data by just glancing at it for a moment. I was interested in showing the change of debt to %GDP, so I chose to euse a boxplot to do that, which gives an interesting view on the datarange of the various countries’ debts. Enjoy looking around!
 
